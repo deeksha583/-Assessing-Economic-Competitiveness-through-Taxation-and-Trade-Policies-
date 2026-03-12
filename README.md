@@ -66,7 +66,7 @@ The analysis uses descriptive statistics and data visualization techniques in Py
 ## Analysis Results
 
 ### Tax Revenue (% of GDP)
-![Tax Revenue Chart](results/tax_revenue_chart.png)
+![Tax Revenue Chart](tax_revenue_chart.png)
 The chart shows tax revenue as a percentage of GDP from 2000–2023 for India, China, and the United States. The United States generally records the highest tax revenue, though it fluctuates over time. India shows moderate growth until the mid-2010s followed by a noticeable decline after 2019. China remains relatively stable, with a gradual rise until around 2011 and a steady decline in recent years, reflecting differences in fiscal capacity and tax structures across the three economies.
 
 ### Tariff Rate (%)
