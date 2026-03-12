@@ -1,10 +1,10 @@
-# -Assessing-Economic-Competitiveness-through-Taxation-and-Trade-Policies-
+# Assessing-Economic-Competitiveness-through-Taxation-and-Trade-Policies-
 Comparative analysis of tax revenue, tariff rates, and trade openness in India, China, and the United States from 2000–2023. The study uses Python-based data analysis and visualization to examine fiscal capacity, trade policies, and their role in shaping economic competitiveness and global trade integration.
-# -**Overview
-**
+# Overview
+
 This dissertation examines economic competitiveness by comparing taxation and trade policies across three major economies: India, China, and the United States. The study analyzes trends in tax revenue, tariff rates, and trade openness to understand how fiscal and trade policies influence economic performance and global trade integration.
 
-# -Objectives
+# Objectives
 
 1. Compare tax revenue trends among India, China, and the United States.
 
@@ -18,7 +18,7 @@ This dissertation examines economic competitiveness by comparing taxation and tr
 
 The study uses secondary data from the World Bank database covering the period 2000–2023.
 
-# -Variables
+# Variables
 
 **Tax Revenue (% of GDP)** – Indicates government fiscal capacity.
 
@@ -26,11 +26,11 @@ The study uses secondary data from the World Bank database covering the period 2
 
 **Trade Openness (% of GDP)** – Reflects the level of international trade integration.
 
-# -Methodology
+# Methodology
 
 The analysis uses descriptive statistics and data visualization techniques in Python to compare trends among the three countries. Line charts were used to illustrate changes in tax revenue, tariff rates, and trade openness over time.
 
-# -Tools & Technologies
+# Tools & Technologies
 
 1. Python
 
@@ -40,7 +40,7 @@ The analysis uses descriptive statistics and data visualization techniques in Py
 
 4. Jupyter Notebook
 
-# -Key Insights
+# Key Insights
 
 1. The United States shows relatively higher tax revenue collection.
 
@@ -48,7 +48,7 @@ The analysis uses descriptive statistics and data visualization techniques in Py
 
 3. China demonstrated higher trade openness, particularly during the mid-2000s.
 
-# -Project Structure 
+# Project Structure 
 data/
    tax_revenue_data.csv
    tariff_rate_data.csv
@@ -61,6 +61,6 @@ results/
    tax_revenue_chart.png
    tariff_rate_chart.png
    trade_openness_chart.png
-Conclusion
+# Conclusion
 
 The study highlights how differences in taxation and tariff policies influence trade integration and economic competitiveness across countries.
