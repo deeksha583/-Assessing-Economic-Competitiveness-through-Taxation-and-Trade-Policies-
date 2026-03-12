@@ -50,30 +50,18 @@ The analysis uses descriptive statistics and data visualization techniques in Py
 
 # Project Structure 
 *data/*
-   `tax_revenue_data.csv`
-   `tariff_rate_data.csv`
-   `trade_openness_data.csv`
+  - `tax_revenue_data.csv`
+  - `tariff_rate_data.csv`
+  - `trade_openness_data.csv`
 
 *analysis/*
-   `dissertation_analysis.ipynb`
+   - `dissertation_analysis.ipynb`
 
 *results/*
-   `tax_revenue_chart.png`
-   `tariff_rate_chart.png`
-   `trade_openness_chart.png`
-   # Assessing Economic Competitiveness through Tax and Tariff Policies
-
-## Analysis Results
-
-### Tax Revenue (% of GDP)
-![Tax Revenue Chart](tax_revenue_chart.png)
-The chart shows tax revenue as a percentage of GDP from 2000–2023 for India, China, and the United States. The United States generally records the highest tax revenue, though it fluctuates over time. India shows moderate growth until the mid-2010s followed by a noticeable decline after 2019. China remains relatively stable, with a gradual rise until around 2011 and a steady decline in recent years, reflecting differences in fiscal capacity and tax structures across the three economies.
-
-### Tariff Rate (%)
-The chart shows tariff rate trends from 2000–2023 for India, China, and the United States. India initially had the highest tariff rates but shows a clear decline over time. China’s tariffs also decrease gradually, reflecting trade liberalization. The United States maintains relatively low and stable tariff levels, with a sharp temporary spike around 2019 before returning to lower levels.
-
-### Trade Openness (% of GDP)
-The chart illustrates trade openness (% of GDP) from 2000–2023 for India, China, and the United States. China shows the highest trade openness in the early years, peaking in the mid-2000s before gradually declining. India experiences a steady rise until around 2011, followed by fluctuations. The United States maintains relatively lower but stable trade openness throughout the period.
+   - `tax_revenue_chart.png`
+   - `tariff_rate_chart.png`
+   - `trade_openness_chart.png`
+   
 
 # Conclusion
 
