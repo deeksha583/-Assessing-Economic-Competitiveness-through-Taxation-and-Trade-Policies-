@@ -49,18 +49,18 @@ The analysis uses descriptive statistics and data visualization techniques in Py
 3. China demonstrated higher trade openness, particularly during the mid-2000s.
 
 # Project Structure 
-data/
-   tax_revenue_data.csv
-   tariff_rate_data.csv
-   trade_openness_data.csv
+*data/*
+   `tax_revenue_data.csv`
+   `tariff_rate_data.csv`
+   `trade_openness_data.csv`
 
-analysis/
-   dissertation_analysis.ipynb
+*analysis/*
+   `dissertation_analysis.ipynb`
 
-results/
-   tax_revenue_chart.png
-   tariff_rate_chart.png
-   trade_openness_chart.png
+*results/*
+   `tax_revenue_chart.png`
+   `tariff_rate_chart.png`
+   `trade_openness_chart.png`
 # Conclusion
 
 The study highlights how differences in taxation and tariff policies influence trade integration and economic competitiveness across countries.
