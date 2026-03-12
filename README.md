@@ -64,5 +64,14 @@ The analysis uses descriptive statistics and data visualization techniques in Py
    
 
 # Conclusion
+We have seen through the chart tax revenue as a percentage of GDP from 2000–2023 for India, China, and the United States. The United States generally records the highest tax revenue, though it fluctuates over time. India shows moderate growth until the mid-2010s followed by a noticeable decline after 2019. China remains relatively stable, with a gradual rise until around 2011 and a steady decline in recent years, reflecting differences in fiscal capacity and tax structures across the three economies.
 
-The study highlights how differences in taxation and tariff policies influence trade integration and economic competitiveness across countries.
+The Tariff rate chart shows trends from 2000–2023 for India, China, and the United States. India initially had the highest tariff rates but shows a clear decline over time. China’s tariffs also decrease gradually, reflecting trade liberalization. The United States maintains relatively low and stable tariff levels, with a sharp temporary spike around 2019 before returning to lower levels.
+
+The trade openness (% of GDP) from 2000–2023 for India, China, and the United States. China shows the highest trade openness in the early years, peaking in the mid-2000s before gradually declining. India experiences a steady rise until around 2011, followed by fluctuations. The United States maintains relatively lower but stable trade openness throughout the period.
+
+The study highlights how differences in taxation and tariff policies influence trade integration and economic competitiveness across countries. The analysis indicates that taxation and trade policies influence economic competitiveness across countries. Differences in tariff structures and fiscal capacity shape the level of global trade integration for India, China, and the United States.
+
+# Policy Implication
+
+Governments should focus on efficient tax systems and balanced tariff policies to enhance trade integration and improve overall economic competitiveness.
