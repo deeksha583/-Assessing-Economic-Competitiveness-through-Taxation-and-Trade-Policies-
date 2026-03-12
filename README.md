@@ -70,10 +70,9 @@ The analysis uses descriptive statistics and data visualization techniques in Py
 The chart shows tax revenue as a percentage of GDP from 2000–2023 for India, China, and the United States. The United States generally records the highest tax revenue, though it fluctuates over time. India shows moderate growth until the mid-2010s followed by a noticeable decline after 2019. China remains relatively stable, with a gradual rise until around 2011 and a steady decline in recent years, reflecting differences in fiscal capacity and tax structures across the three economies.
 
 ### Tariff Rate (%)
-![Tariff Rate Chart](results/tariff_rate_chart.png)
 The chart shows tariff rate trends from 2000–2023 for India, China, and the United States. India initially had the highest tariff rates but shows a clear decline over time. China’s tariffs also decrease gradually, reflecting trade liberalization. The United States maintains relatively low and stable tariff levels, with a sharp temporary spike around 2019 before returning to lower levels.
+
 ### Trade Openness (% of GDP)
-![Trade Openness Chart](trade_openness_chart.png)
 The chart illustrates trade openness (% of GDP) from 2000–2023 for India, China, and the United States. China shows the highest trade openness in the early years, peaking in the mid-2000s before gradually declining. India experiences a steady rise until around 2011, followed by fluctuations. The United States maintains relatively lower but stable trade openness throughout the period.
 
 # Conclusion
