@@ -14,7 +14,7 @@ This dissertation examines economic competitiveness by comparing taxation and tr
 
 4. Identify how taxation and tariff policies relate to economic competitiveness.
 
-# -Data
+# Data
 
 The study uses secondary data from the World Bank database covering the period 2000–2023.
 
